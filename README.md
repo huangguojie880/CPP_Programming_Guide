@@ -20,3 +20,7 @@ https://github.com/hucanpei/Cpp17
 3、 Effective Modern C++ 
 
 https://github.com/CnTransGroup/EffectiveModernCppChines
+
+4、 OpenHarmony
+
+https://gitee.com/openharmony/docs/tree/master/zh-cn/contribute
