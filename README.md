@@ -12,3 +12,7 @@ C++核心编程指南链接:
 1、Bjarne Stroustrup 的 《在纷繁多变的世界里茁壮成长：C++ 2006–2020》
 
 https://github.com/Cpp-Club/Cxx_HOPL4_zh
+
+2、C++17完全指南
+
+https://github.com/hucanpei/Cpp17
