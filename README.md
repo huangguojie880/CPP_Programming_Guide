@@ -9,6 +9,6 @@ C++核心编程指南链接:
 
 此外，还会借鉴其它C++编程书籍中的思想，有以下（但不限于）：
 
-Bjarne Stroustrup 的 《在纷繁多变的世界里茁壮成长：C++ 2006–2020》
+1、Bjarne Stroustrup 的 《在纷繁多变的世界里茁壮成长：C++ 2006–2020》
 
 https://github.com/Cpp-Club/Cxx_HOPL4_zh
