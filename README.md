@@ -32,3 +32,9 @@ https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/
 6. 微软C++指南
 
 https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170
+
+7. C++编程规范-101条规则、准则与最佳实践
+
+8. Effective C++ 
+
+9. Effective STL
