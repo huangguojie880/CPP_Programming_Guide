@@ -44,6 +44,10 @@
 
 9. Effective STL
 
+10. C++17 the complete guide
+
+    https://github.com/hucanpei/Cpp17
+
 <h2>其它</h2>
 
 本来笔者是想把上述文献中的观点，消化吸收后形成自己的文件写下来的。可是，大师（Bjarne Stroustrup等）的观点总是鞭辟入里，高屋建瓴。这是笔者所不能及的，自己"蛮横"的改动，可能会曲解大师的意图和观点。
